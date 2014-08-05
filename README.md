@@ -1,4 +1,4 @@
-Anchor Slider
+Simple Anchor Slider
 ============
 
 Script created to facilitate setting slip their anchors just HTML. 
